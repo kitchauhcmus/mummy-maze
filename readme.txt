@@ -90,6 +90,4 @@ C. CƠ CHẾ ĐẶC BIỆT:
    - Có thể Đăng ký/Đăng nhập tài khoản.
    - Bảng xếp hạng (Leaderboard) cập nhật theo thời gian thực.
    - Save/Load game giữ nguyên vị trí nhân vật và trạng thái cổng.
-===============================================================================
-  CẢM ƠN THẦY ĐÃ CHẤM ĐỒ ÁN CỦA NHÓM EM!
-================================================================================
+
