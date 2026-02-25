@@ -16,7 +16,7 @@
 2. YÊU CẦU HỆ THỐNG (PREREQUISITES)
 --------------------------------------------------------------------------------
 Để chạy được trò chơi, máy tính cần cài đặt:
-- Python: Phiên bản 3.8 trở lên (Khuyến nghị 3.14 như trong báo cáo).
+- Python: Phiên bản 3.8 trở lên (Khuyến nghị 3.14).
 - Thư viện Pygame: Dùng để xử lý đồ họa và âm thanh.
 
 3. HƯỚNG DẪN CÀI ĐẶT (INSTALLATION)
