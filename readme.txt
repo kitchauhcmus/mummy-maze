@@ -9,7 +9,7 @@
 - Giảng viên hướng dẫn: Thầy Trần Hoàng Quân
 - Thành viên nhóm:
   1. Nguyễn Châu Tuấn Kiệt (25122026) 
-  2. Võ Duy Phát         (25122013)
+  2. Võ Duy Phát           (25122013)
   3. Phan Phước Quang Minh (25122029)
   4. Nguyễn Minh Quang     (25122038)
 
