@@ -1,0 +1,42 @@
+{
+    "users": {
+        "Haha": {
+            "code": "ggg",
+            "max_level": 1
+        },
+        "haha": {
+            "code": "1",
+            "max_level": 1
+        },
+        "1": {
+            "code": "2",
+            "max_level": 4,
+            "difficulty": 1,
+            "score": 100
+        },
+        "guest": {
+            "code": "guest",
+            "max_level": 1,
+            "difficulty": 3,
+            "score": 0
+        },
+        "12": {
+            "code": "1",
+            "max_level": 1,
+            "difficulty": 1,
+            "score": 0
+        }
+    },
+    "guest": {
+        "password": "guest",
+        "max_level": 1,
+        "difficulty": 3,
+        "score": 2200
+    },
+    "1": {
+        "password": "2",
+        "max_level": 1,
+        "difficulty": 1,
+        "score": 100
+    }
+}
